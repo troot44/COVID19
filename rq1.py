@@ -1,7 +1,6 @@
 '''
 Akond Rahman 
-May 04, 2020 
-Answer to RQ1 
+Oct 28, 2024
 '''
 import os 
 import csv 
